@@ -1,18 +1,3 @@
 {
-  "utilisateurs": [
-    {
-      "etape1": {
-        "civilite": "mr",
-        "prenom": "Mathieu",
-        "nom": "Nibas",
-        "email": "mathieu.nibas@gmail.com",
-        "tel": "+33619820319"
-      },
-      "etape2": {
-        "framework": "ReactJS",
-        "autre": "Bla bla bla"
-      },
-      "id": 1
-    }
-  ]
+  "utilisateurs": []
 }
